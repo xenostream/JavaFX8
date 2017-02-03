@@ -88,7 +88,9 @@ public class Skel extends Application {
 }
 
 ```
-Skel.java ![](Skel.png)  
+![](Skel.png)      
+[Skel.java] 
+
 
 ====
 ![](https://github.com/xenostream/GoWebProgramming/blob/master/images/My.jpg)
