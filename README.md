@@ -12,13 +12,14 @@
 
 ~~Strike Out~~(\~~Strike Out~~)
 
-**Bold __Itaclic__**(\*\*Bold __Itaclic__**)
+**Bold __Itaclic__**(\*\*Bold \_\_Itaclic__**)
 
 
-> Quote Text
+> Quote Text(\> Quote Text)
 
-`Quote Code `
--
+`Quote Code `(\`Quote Code `)
+
+
 ```java
    // Code Quote & Syntax Highlight
    import javafx.application.Application;
