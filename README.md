@@ -86,9 +86,9 @@ public class Skel extends Application {
         primaryStage.show();
     }
 }
-![](Skel.png)
+
 ```
-  
+![](Skel.png)  
 
 ![](https://github.com/xenostream/GoWebProgramming/blob/master/images/My.jpg)
 
