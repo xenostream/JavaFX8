@@ -6,13 +6,13 @@
 ###### Heading_6(###### Heading_6)
 
 
-**Bold**(\**Bold\**)
+**Bold**(\**Bold**)
 
-*Italic*
+*Italic*(\*Italic*)
 
-~~Strike Out~~
+~~Strike Out~~(\~~Strike Out~~)
 
-**Bold __Itaclic__**
+**Bold __Itaclic__**(\**Bold __Itaclic__**)
 
 
 > Quote Text
