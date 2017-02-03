@@ -1,4 +1,4 @@
- Row\Col |  Header 1 | Header 2
+ R/C |  Header 1 | Header 2
  ---|---|---
  Row1 | Data 1 | Data 2
  Row2 | Data 3 | Data 4
