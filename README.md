@@ -41,7 +41,7 @@ CSS(Cascading Style Sheet) / FXML을 사용하지 않습니다. 단지, `Java Co
 
 총 9개의 섹션을 통해서 `JavaFX`에 대해서 설명하며, 간략한 구성은 다음과 같습니다. 
 
-Subject | Description
+Chapter | Description
 :---|:---
 1. JavaFX Fundamentals | JavaFX의 기본 및 기초
 2. Introducing Events and Controls | 이벤트 및 컨트롤
