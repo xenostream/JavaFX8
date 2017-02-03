@@ -7,7 +7,6 @@ JavaFX 8 GUI 프로그램 만들기
 
 총 9개의 섹션을 통해서 `JavaFX`에 대해서 설명하며, 간략한 구성은 다음과 같습니다. 
 
-```
 Subject | Description
 :---|:---
 1. JavaFX Fundamentals | JavaFX의 기초
@@ -19,7 +18,6 @@ Subject | Description
 7. Animation   | 애니메이션
 8. Explore Menus  메뉴
 9. Charts, WebView, and Canvass | 차트, 웹뷰, 캔바스
-```
 
 
 `Java 8`에서 기본 JRE/JDK에 포함된, 차세대 GUI FrameWorks인     
