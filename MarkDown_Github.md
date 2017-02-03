@@ -19,7 +19,6 @@
 
 `Quote Code `
 -
-
 ```java
    // Code Quote & Syntax Highlight
    import javafx.application.Application;
@@ -67,7 +66,7 @@ Ignore Markdown is \\ non list \\
 
 Column 1 | *Column 2* | ~~Column 3~~ 
 ---|---|---
- :---- | :----: | ----: 
+ :--- | :---: | ---: 
  Cell 1 | **Cell 2** | Cell 3
   
   
