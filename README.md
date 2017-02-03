@@ -1,4 +1,4 @@
-)   # Heading_1 (\# Heading_1)
+# Heading_1 (\# Heading_1)
 ## Heading_2   (## Heading_2)
 ### Heading_3  (### Heading_3)
 #### Heading_4 (#### Heading_4)
@@ -27,7 +27,7 @@
        System.out.println("Hello, MarkDown");
    }
 
-``` (\`\`\`java ```)
+``` (\```java ```)
 
 
 [Link](http://www.xenostream.com)
