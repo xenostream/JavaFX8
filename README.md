@@ -6,7 +6,7 @@
 ###### Heading_6(###### Heading_6)
 
 
-**Bold**(\**Bold**)
+**Bold**(\*\*Bold**)
 
 *Italic*(\*Italic*)
 
