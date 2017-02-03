@@ -65,7 +65,7 @@ Chapter | Description
 늘지 않습니다.  물론 본 가이드에서 복사/붙여넣기를 하실 수는 있습니다.    
 
 ### Skeleton Code for JavaFX Desktop Application
-![Skeleton Code](Skel.png)
+
 ```java
 import javafx.application.Application;
 import javafx.stage.Stage;
@@ -86,8 +86,10 @@ public class Skel extends Application {
         primaryStage.show();
     }
 }
+![](Skel.png)
 ```
   
+
 ![](https://github.com/xenostream/GoWebProgramming/blob/master/images/My.jpg)
 
 [XenoStream](http://www.xenostream.com) 
