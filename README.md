@@ -8,15 +8,17 @@ JavaFX 8 GUI 프로그램 만들기
 총 9개의 섹션을 통해서 `JavaFX`에 대해서 설명하며, 간략한 구성은 다음과 같습니다. 
 
 ```
-1. JavaFX Fundamentals
-2. Introducing Events and Controls
-3. Exploring JavaFX Controls, Part One
-4. Exploring JavaFX Controls, Part Two
-5. Work with Images, Fonts, and Layouts
-6. Effects and Transforms
-7. Animation
-8. Explore Menus
-9. Charts, WebView, and Canvass
+Subject | Description
+:---|:---
+1. JavaFX Fundamentals | JavaFX의 기초
+2. Introducing Events and Controls | 이벤트 및 컨트롤
+3. Exploring JavaFX Controls, Part One | 컨트롤 파트1
+4. Exploring JavaFX Controls, Part Two | 컨트롤 파트2
+5. Work with Images, Fonts, and Layouts | 이미지, 폰트, 레이아웃
+6. Effects and Transforms  | 이펙트와 변형
+7. Animation   | 애니메이션
+8. Explore Menus  메뉴
+9. Charts, WebView, and Canvass | 차트, 웹뷰, 캔바스
 ```
 
 
