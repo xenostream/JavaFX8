@@ -40,6 +40,7 @@ CSS(Cascading Style Sheet) / FXML을 사용하지 않습니다. 단지, `Java Co
 또한, JavaFX의 향상된 기능인 이펙트, 변형, 애니메이션, 메뉴와 WebView등의      
 기능도 설명하도록 하겠습니다.       
 
+
 총 9개의 섹션을 통해서 `JavaFX`에 대해서 설명하며, 간략한 구성은 다음과 같습니다. 
 
 Chapter | Description
@@ -63,6 +64,7 @@ Chapter | Description
 프로그래밍은 직접 입력하면서 배우는 과정입니다. 복사 / 붙여넣기로는     
 늘지 않습니다.  물론 본 가이드에서 복사/붙여넣기를 하실 수는 있습니다.    
 
+### Skeleton Code for JavaFX Desktop Application
 ![Skeleton Code](Skel.png)
 ```java
 import javafx.application.Application;
