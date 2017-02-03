@@ -20,7 +20,7 @@ JavaFX는 풍부하고, 강력하며, 유연한 프레임워크이며, 또한 �
 하지만, JDK 7u4부터는(JavaFX 2.0) *순수한 Java언어*로 작성할 수 있도록 변경 되었으며,       
 현재는 `JDK`과 버전번호를 맞추기 위해서 `JDK 8 / JavaFX 8` 버전으로 되었습니다. 
     
-
+-
 또한, `JDK/JRE`에 `JavaFX`가 이미 **포함(Bundle)**되어서 배포되므로, 앞으로의     
 자바프로그램에서 GUI부분은 `JavaFX`로 처리하게 됨을 의미하며,  별도의 Frameworks 나          
 유틸리티를 설치하지 않아도, 작동하게 되는 장점이 있습니다.     
@@ -30,7 +30,7 @@ JavaFX는 풍부하고, 강력하며, 유연한 프레임워크이며, 또한 �
 
 > 또한 자바언어에 대한 기본적인 지식만을 요구합니다. 
 
-초보자나 전문가 모두가 읽을 수 있도록 구성하였습니다.      
+-초보자나 전문가 모두가 읽을 수 있도록 구성하였습니다.      
 CSS(Cascading Style Sheet) / FXML을 사용하지 않습니다. 단지, `Java Code`로만 작성하도록       
 하겠습니다. `CSS/FXML`은 **JavaFX8**의 강력한 기능이지만, 기본적인 사항을 학습 하신다면     
 간단히 적용해서 사용하실 수 있습니다.        
@@ -40,7 +40,7 @@ CSS(Cascading Style Sheet) / FXML을 사용하지 않습니다. 단지, `Java Co
 또한, JavaFX의 향상된 기능인 이펙트, 변형, 애니메이션, 메뉴와 WebView등의      
 기능도 설명하도록 하겠습니다.       
 
-
+-
 총 9개의 섹션을 통해서 `JavaFX`에 대해서 설명하며, 간략한 구성은 다음과 같습니다. 
 
 Chapter | Description
@@ -88,8 +88,9 @@ public class Skel extends Application {
 }
 
 ```
-![](Skel.png)  
+Skel.java ![](Skel.png)  
 
+====
 ![](https://github.com/xenostream/GoWebProgramming/blob/master/images/My.jpg)
 
 [XenoStream](http://www.xenostream.com) 
