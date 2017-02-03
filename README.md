@@ -1,23 +1,23 @@
-# Heading_1(\# Heading_1)
-## Heading_2(## Heading_2)
-### Heading_3(### Heading_3)
-#### Heading_4(#### Heading_4)
-##### Heading_5(##### Heading_5)
-###### Heading_6(###### Heading_6)
+# Heading_1 (\# Heading_1)
+## Heading_2   (## Heading_2)
+### Heading_3  (### Heading_3)
+#### Heading_4 (#### Heading_4)
+##### Heading_5   (##### Heading_5)
+###### Heading_6  (###### Heading_6)
 
 
-**Bold**(\*\*Bold**)
+**Bold** (\*\*Bold**)
 
-*Italic*(\*Italic*)
+*Italic* (\*Italic*)
 
-~~Strike Out~~(\~~Strike Out~~)
+~~Strike Out~~ (\~~Strike Out~~)
 
-**Bold __Itaclic__**(\*\*Bold \_\_Itaclic__**)
+**Bold __Itaclic__** (\*\*Bold \_\_Itaclic__**)
 
 
-> Quote Text(\> Quote Text)
+> Quote Text   (\> Quote Text)
 
-`Quote Code `(\`Quote Code `)
+`Quote Code `  (\`Quote Code `)
 
 
 ```java
