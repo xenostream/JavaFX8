@@ -15,8 +15,8 @@ Subject | Description
 4. Exploring JavaFX Controls, Part Two | 컨트롤 파트2
 5. Work with Images, Fonts, and Layouts | 이미지, 폰트, 레이아웃
 6. Effects and Transforms  | 이펙트와 변형
-7. Animation   | 애니메이션
-8. Explore Menus  메뉴
+7. Animation | 애니메이션
+8. Explore Menus | 메뉴
 9. Charts, WebView, and Canvass | 차트, 웹뷰, 캔바스
 
 
