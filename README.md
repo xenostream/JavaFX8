@@ -12,7 +12,7 @@
 
 ~~Strike Out~~(\~~Strike Out~~)
 
-**Bold __Itaclic__**(\**Bold __Itaclic__**)
+**Bold __Itaclic__**(\*\*Bold __Itaclic__**)
 
 
 > Quote Text
