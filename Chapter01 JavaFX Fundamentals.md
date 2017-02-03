@@ -43,6 +43,12 @@
 
 
 ## Java GUI Frameworks의 간략한 역사 
-예상했듯이, Java언어에서 GUI FrameWorks는 JavaFX가 처음이 아닙니다. 
+예상했듯이, Java언어에서 GUI FrameWorks는 JavaFX가 처음이 아닙니다.    
+3번째 GUI Framework에 속합니다. 이전의 프레임워크를 알게되면, JavaFX에서 어떤 부분이     
+향샹되었는지에 대해서 쉽게 익힐 수 있습니다.   
+
+### AWT(Abstract Window Tookit) : 첫번째 GUI Framework 
+Java 언어의 최초의 GUI Framewok로서, **Abstract Window Tookit**의 약자이며,        
+흔히 `AWT`라고 부릅니다.
      
 
