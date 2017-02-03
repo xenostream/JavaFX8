@@ -9,19 +9,19 @@ JavaFX 8 GUI 프로그램 만들기
 
 ```
 1. JavaFX Fundamentals
-1. Introducing Events and Controls
-1. Exploring JavaFX Controls, Part One
-1. Exploring JavaFX Controls, Part Two
-1. Work with Images, Fonts, and Layouts
-1. Effects and Transforms
-1. Animation
-1. Explore Menus
-1. Charts, WebView, and Canvass
+2. Introducing Events and Controls
+3. Exploring JavaFX Controls, Part One
+4. Exploring JavaFX Controls, Part Two
+5. Work with Images, Fonts, and Layouts
+6. Effects and Transforms
+7. Animation
+8. Explore Menus
+9. Charts, WebView, and Canvass
 ```
 
 
 `Java 8`에서 기본 JRE/JDK에 포함된, 차세대 GUI FrameWorks인     
-`JavaFX 8`에 대한 기본적인 기술을 익힐 수 있습니다.    
+**`JavaFX 8`**에 대한 기본적인 기술을 익힐 수 있습니다.    
 
 본 가이드를 마치신 후에는 좀더 전문적인 주제를 정해서 설명하도록       
 하겠습니다.    
