@@ -1,3 +1,4 @@
+
 JavaFX 8 GUI 프로그램 만들기
 ====
 
@@ -62,7 +63,27 @@ Chapter | Description
 프로그래밍은 직접 입력하면서 배우는 과정입니다. 복사 / 붙여넣기로는     
 늘지 않습니다.  물론 본 가이드에서 복사/붙여넣기를 하실 수는 있습니다.    
 
+```java
+import javafx.application.Application;
+import javafx.stage.Stage;
+import javafx.scene.Scene;
+import javafx.scene.layout.FlowPane;
 
+public class Skel extends Application {
+  public static void main(String[] args) {
+     launch(args);
+  }
+  
+  @Override
+  public void start(Stage primaryStage) {
+       primaryStage.setTitle("Skel of JavaFX");
+       FlowPane rootNode = new FlowPane();
+       Scene myScene = new Scene(rootNode, 300, 400);
+       primaryStage.setScene(scene);
+       primaryStage.show();
+  }
+ }
+```
   
 ![](https://github.com/xenostream/GoWebProgramming/blob/master/images/My.jpg)
 
