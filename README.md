@@ -27,10 +27,10 @@
        System.out.println("Hello, MarkDown");
    }
 
-``` (\```java ```)
+``` 
 
 
-[Link](http://www.xenostream.com)
+[Link](http://www.xenostream.com) (\[Link](http://www.xenostream.com))
 
 [Relative Link](MarkDown_Github.md)
 
